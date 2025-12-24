@@ -127,7 +127,7 @@ The project follows a **simple MVC-like structure** using Core PHP, making it ea
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/blog-website.git
+git clone https://github.com/syedshoeb10/blog-website.git
 ```
 
 2. Move project to XAMPP / WAMP / LAMP `htdocs` folder
@@ -163,10 +163,6 @@ http://localhost/blog-website
 
 * **Email:** [admin@example.com](mailto:admin@example.com)
 * **Password:** admin123
-
-> ⚠️ Change credentials in production
-
----
 
  🔒 Security Features
 
